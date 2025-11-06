@@ -16,7 +16,7 @@ The project demonstrates:
 ---
 
 ## 🚀 Live Demo  
-👉 [Streamlit App (once deployed)](https://share.streamlit.io/)  
+👉 https://neuramood.streamlit.app/  
 
 ---
 
