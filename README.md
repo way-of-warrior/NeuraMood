@@ -1,8 +1,6 @@
 # 🧠 NeuraMood  
 ### *Real-time EEG Emotion Classification using Deep Learning*  
 
-![NeuraMood Header](assets/banner.png)
-
 ---
 
 ## 🌟 Overview  
@@ -97,21 +95,6 @@ pip install -r requirements.txt
 streamlit run NeuraMood.py
 ```
 
-### 5️⃣ (Optional) Deploy on Streamlit Cloud
-- Push the repo to GitHub.
-- Go to [share.streamlit.io](https://share.streamlit.io).
-- Choose your repo and main file (`NeuraMood.py`).
-- Click **Deploy** 🚀  
-
----
-
-## 🎥 UI Enhancements  
-
-- Background looping video (`assets/bg.mp4`)  
-- Page loader animation (CSS spinner or Lottie JSON)  
-- Spinners for model loading and predictions  
-- Collapsed sidebar by default (`initial_sidebar_state="collapsed"`)  
-
 ---
 
 ## 🧾 References & Acknowledgments  
@@ -120,15 +103,6 @@ Model architecture and methodology were inspired by:
 > [Vidhi1290 / Deep-Learning-for-EEG-Emotion-Classification](https://github.com/Vidhi1290/Deep-Learning-for-EEG-Emotion-Classification)  
 
 Special thanks to the open-source community for providing EEG datasets and visualization tools.
-
----
-
-## 🧑‍💻 Authors  
-
-**Your Name**  
-🎓 Data Science / Machine Learning Researcher  
-📧 your.email@example.com  
-🌐 [LinkedIn / Portfolio link]  
 
 ---
 
